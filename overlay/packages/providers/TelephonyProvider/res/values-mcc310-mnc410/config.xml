@@ -18,5 +18,5 @@
 
     <!-- The preferred APN to use, in the format name,mcc,mnc
          Leave empty to choose automatically. -->
-    <string name="config_preferred_apn">broadband,310,410</string>
+    <!--string name="config_preferred_apn">broadband,310,410</string-->
 </resources>
