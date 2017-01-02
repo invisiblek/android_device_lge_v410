@@ -1,5 +1,6 @@
-
+#
 # Copyright (C) 2014 The CyanogenMod Project
+# Copyright (C) 2017 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -20,7 +21,7 @@
 TARGET_OTA_ASSERT_DEVICE := v410,e7,e7lte
 
 # Kernel
-TARGET_KERNEL_CONFIG := cyanogen_e7att_defconfig
+TARGET_KERNEL_CONFIG := lineageos_e7att_defconfig
 
 # inherit from the proprietary version
 -include vendor/lge/v410/BoardConfigVendor.mk
